@@ -1,0 +1,5 @@
+train: E:/defectDetection/ultralytics-atss/ultralytics-main/ultralytics/datasets/coco_Cbpmdata/images/train  # train images (relative to 'path') 118287 images
+val: E:/defectDetection/ultralytics-atss/ultralytics-main/ultralytics/datasets/coco_Cbpmdata/images/val
+
+nc: 9
+names: ['watermarking','public-rejection','seal','silk-screen','second-gravure','first-gravure','oil-fouling','imprinting','offset-printing']
